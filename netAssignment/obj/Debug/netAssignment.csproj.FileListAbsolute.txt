@@ -1,0 +1,52 @@
+D:\HND-Batch-18\netAssignment\netAssignment\bin\Debug\netAssignment.exe.config
+D:\HND-Batch-18\netAssignment\netAssignment\obj\Debug\netAssignment.csprojResolveAssemblyReference.cache
+D:\HND-Batch-18\netAssignment\netAssignment\obj\Debug\netAssignment.form.resources
+D:\HND-Batch-18\netAssignment\netAssignment\obj\Debug\netAssignment.Properties.Resources.resources
+D:\HND-Batch-18\netAssignment\netAssignment\obj\Debug\netAssignment.csproj.GenerateResource.Cache
+D:\HND-Batch-18\netAssignment\netAssignment\bin\Debug\netAssignment.exe
+D:\HND-Batch-18\netAssignment\netAssignment\bin\Debug\netAssignment.pdb
+D:\HND-Batch-18\netAssignment\netAssignment\obj\Debug\netAssignment.exe
+D:\HND-Batch-18\netAssignment\netAssignment\obj\Debug\netAssignment.pdb
+D:\1 year\2nd semister\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.exe.config
+D:\1 year\2nd semister\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.exe
+D:\1 year\2nd semister\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.csprojResolveAssemblyReference.cache
+D:\1 year\2nd semister\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.form.resources
+D:\1 year\2nd semister\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.Properties.Resources.resources
+D:\1 year\2nd semister\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.csproj.GenerateResource.Cache
+D:\1 year\2nd semister\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.exe
+D:\1 year\2nd semister\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.pdb
+D:\1 year\2nd semister\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.pdb
+D:\1 year\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.exe.config
+D:\1 year\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.exe
+D:\1 year TEM\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.exe.config
+D:\1 year TEM\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.exe
+D:\1 year TEM\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.exe
+D:\1 year TEM\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.pdb
+D:\1 year TEM\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.csprojResolveAssemblyReference.cache
+D:\1 year TEM\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.form.resources
+D:\1 year TEM\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.Properties.Resources.resources
+D:\1 year TEM\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.csproj.GenerateResource.Cache
+D:\1 year TEM\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.pdb
+D:\1 year TEM\2nd semister\C# resit\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.reservation.resources
+D:\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.exe.config
+D:\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.exe
+D:\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.pdb
+D:\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.exe
+D:\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.pdb
+D:\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.csprojResolveAssemblyReference.cache
+D:\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.form.resources
+D:\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.Properties.Resources.resources
+D:\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.reservation.resources
+D:\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.csproj.GenerateResource.Cache
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.exe.config
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.exe
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\bin\Debug\netAssignment.pdb
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.csproj.AssemblyReference.cache
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.csproj.SuggestedBindingRedirects.cache
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.form.resources
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.Properties.Resources.resources
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.reservation.resources
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.csproj.GenerateResource.cache
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.csproj.CoreCompileInputs.cache
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.exe
+F:\G\GUSTO DIPLOMA ASSIGNMENT\1 year TEM\2nd semister\C# resit\C# assignment2\c#.net assignment1\netAssignment\netAssignment\obj\Debug\netAssignment.pdb
